@@ -1,2 +1,2 @@
-# Animation-projects
+# Graphics-projects
 animation project 
